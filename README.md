@@ -1,12 +1,5 @@
-<p align="center">
-<img width="70%" alt="Mara Martins Banner"src="https://github.com/marapt/marapt/blob/main/ChatGPT%20Image%20Oct%2031%2C%202025%2C%2010_50_29%20AM.png?raw=true" height="250px">
-
-<br>
-
 ## Hi, I'm Mara Martins (marapt) 👋  
 **Global Localization & AI Program Lead** — ex-Microsoft, LinkedIn, Block | Learning Python and Web building.   
-
-<br> 
 
 - 🤖 Currently exploring: building AI-powered localization systems, scalable LQM, and human-in-the-loop workflows.  
 - 🧠 Currently learning: Python as a programming language and how to use GitHub effectively.  
@@ -19,5 +12,3 @@
 - 🌍 Based in: Bay Area, CA · 🇵🇹 Originally from Portugal.  
 - 😄 Pronouns: She, her  
 
-<br>
----
