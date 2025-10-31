@@ -1,6 +1,6 @@
-<p align="center">
-  <img width="80%" alt="Mara Martins Banner" src="https://github.com/marapt/marapt/blob/main/banner.png?raw=true">
-</p>
+<div align="center">
+  <img src="./banner.png" alt="Mara Martins Banner" width="80%">
+</div>
 
 <br>
 
