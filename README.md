@@ -5,7 +5,7 @@
 <br>
 
 ## Hi, I'm Mara Martins (marapt) 👋  
-**Global Localization & AI Program Lead** — ex‑Microsoft, LinkedIn, Block | Learning Python and Web building.   
+**Global Localization & AI Program Lead** — ex-Microsoft, LinkedIn, Block | Learning Python and Web building.   
 
 <br> 
 
