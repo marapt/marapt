@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
 <img width="70%" alt="Mara Martins Banner"src="https://github.com/marapt/marapt/blob/main/ChatGPT%20Image%20Oct%2031%2C%202025%2C%2010_50_29%20AM.png?raw=true" height="250px">
 
 <br>
