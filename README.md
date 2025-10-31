@@ -1,6 +1,7 @@
-<div align="center">
-  <img src="./banner.png" alt="Mara Martins Banner" width="80%">
-</div>
+![Mara Martins Banner](./banner.png)
+
+## Hi, I'm Mara Martins (marapt) 👋
+
 
 <br>
 
