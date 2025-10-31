@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Mara Martins (marapt) 👋
+**Global Localization & AI Program Lead** — ex‑Microsoft, LinkedIn, Block | Learning Python and Web building. 
 
-<!--
-**marapt/marapt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Currently exploring: building AI-powered localization systems, scalable LQM, and human-in-the-loop workflows.
+🧠 Currently learning: Python as a programming language and how to use GitHub effectively.
+🧩 Open to collaborating on: Localization, AI, and data-related projects.
+🆘 Looking for help with: Tips for growing in Python, AI, and coding in general.
+🌐 Coming soon: my portfolio — [maramartins.com](https://maramartins.com). Feedback and tips are welcome!
+🚀 Open to: Localization Program/Project Manager, AI/Localization Ops, or AI Business/Executive opportunities.
+💬 Reach me via: [LinkedIn](https://www.linkedin.com/in/maramartinspt/)
+🐈 Fun fact: I’m a cat person. My cat’s name is Pantufas.
+🌍 Based in: Bay Area, CA · 🇵🇹 Originally from Portugal.
+😄 Pronouns: She, her
