@@ -1,7 +1,6 @@
+<img width="80%" alt="Mara Martins Banner"
+     src="https://github.com/marapt/marapt/blob/main/ChatGPT%20Image%20Oct%2031%2C%202025%2C%2010_50_29%20AM.png?raw=true">
 ![Mara Martins Banner](./banner.png)
-
-## Hi, I'm Mara Martins (marapt) 👋
-
 
 <br>
 
