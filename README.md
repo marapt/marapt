@@ -1,5 +1,5 @@
 <p align="center">
-<img width="80%" alt="Mara Martins Banner"src="https://github.com/marapt/marapt/blob/main/ChatGPT%20Image%20Oct%2031%2C%202025%2C%2010_50_29%20AM.png?raw=true" height="220px">
+<img width="80%" alt="Mara Martins Banner"src="https://github.com/marapt/marapt/blob/main/ChatGPT%20Image%20Oct%2031%2C%202025%2C%2010_50_29%20AM.png?raw=true" height="200px">
 
 <br>
 
